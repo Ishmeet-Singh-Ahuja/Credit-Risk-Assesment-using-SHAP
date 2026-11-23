@@ -12,7 +12,7 @@
 ![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**[🚀 Live demo]https://credit-risk-assesment-using-shap-yqij.onrender.com**
+**[🚀 Live demo](https://credit-risk-assesment-using-shap-yqij.onrender.com)**
 
 <a href="#-highlights">Highlights</a> ·
 <a href="#-model-comparison">Model comparison</a> ·
