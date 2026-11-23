@@ -156,12 +156,6 @@ To retrain, open `Credit_Risk.ipynb`, run all cells with `credit_risk_dataset.cs
 
 </details>
 
-## 🗺️ Roadmap
-
-- Return per-applicant SHAP explanations from the API
-- Evaluate on a second credit dataset
-- Add model monitoring and a retraining job
-
 ## 📄 License
 
 MIT. See `LICENSE`.
